@@ -1,0 +1,10 @@
+body,html{
+    color: white;
+}
+body{
+    height: 100%;
+    width: 100%;
+    background-image: url('/assets/Composite_level_images/cave_start_area117.jpg');
+    background-color: #0e0d13;
+    background-size: cover;
+}

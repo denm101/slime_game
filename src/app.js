@@ -1,1 +1,3 @@
-alert('hi!');
+console.log('scripts linked!');
+
+
